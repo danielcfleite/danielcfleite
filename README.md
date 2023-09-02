@@ -3,11 +3,13 @@
 <br>
 
 ## Socials 📲
-<br>
 
 [![GitHub danielcfleite](https://img.shields.io/github/followers/danielcfleite?label=follow&style=social)](https://github.com/danielcfleite)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielcfleite/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:danielcfleite@gmail.com)
+
+<br>
+<br>
 
 ## Technologies 💻
 
@@ -23,6 +25,9 @@
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+<br>
+<br>
 
 ## Currently Learning 💻
 
