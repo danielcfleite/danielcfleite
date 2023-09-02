@@ -2,6 +2,9 @@
 <br>
 <br>
 
+
+<img src="https://s.yimg.com/uu/api/res/1.2/1NrcO0Ayf189KbBzKj4CLg--~B/Zmk9ZmlsbDtoPTQ4OTt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/85098860-d893-11ed-bd7d-1852aa8fc490.cf.jpg"/>
+
 ## Socials 📲
 
 [![GitHub danielcfleite](https://img.shields.io/github/followers/danielcfleite?label=follow&style=social)](https://github.com/danielcfleite)
@@ -35,5 +38,3 @@
 ![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TailWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<img src="https://s.yimg.com/uu/api/res/1.2/1NrcO0Ayf189KbBzKj4CLg--~B/Zmk9ZmlsbDtoPTQ4OTt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/85098860-d893-11ed-bd7d-1852aa8fc490.cf.jpg"/>
